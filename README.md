@@ -61,9 +61,15 @@
 
 ## What programming language is utilized in your embedding solution?
 
+[open text]
+
 ## How you are achieving consistent behavior and rendering across different platforms and devices using webview ?
 
+[open text]
+
 ## What approaches do you take to test webviews and ensure their behavior remains consistent across various devices and platforms?
+
+[open text]
 
 ## Are there features or functionality missing from Progressive Web Apps (PWAs) that if added would motivate you to maintaining a PWA instead of your WebView-based solution?
 
