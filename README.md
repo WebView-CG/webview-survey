@@ -95,3 +95,9 @@
 ## What are your thoughts about WebView from a privacy and security point of view?
 
 [open text]
+
+## Are there features of functionality missing in the WebView you use? (e.g., prerender, WebviewPool,...)
+
+[open text]
+
+
