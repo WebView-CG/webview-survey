@@ -47,6 +47,7 @@
 - [ ] UIWebView (deprecated)
 - [ ] WKWebView
 - [ ] WebView2
+- [ ] X5 WebView (Tencent Browser Services WebView)
 - [ ] Other [ comment ]
 
 ## Do you know how to file bugs and search for documentation about WebView?
