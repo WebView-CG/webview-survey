@@ -26,6 +26,8 @@
 - [ ] Missing web features
 - [ ] WebView bugs
 - [ ] Inconsistency
+- [ ] Performance
+- [ ] Security
 - [ ] Other [ comment ]
 
 ## What specific platforms do you develop on?
