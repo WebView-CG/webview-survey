@@ -1,7 +1,11 @@
 # webview-survey
 
+## 1. Is the majority of your users using WebViews or browsers to run your web application(s)?
 
-## What do you use WebView for?
+- [ ] WebViews
+- [ ] Browsers
+
+## 2.What do you use WebView for?
 
 - [ ] Hybrid apps (Apache Cordova, Capacitor…)
 - [ ] Browser apps
@@ -11,7 +15,7 @@
 - [ ] Offline web content
 - [ ] External links
 
-## What WebView features do you use?
+## 3. What WebView features do you use?
 
 - [ ] CSS injection
 - [ ] JavaScript injection
@@ -21,7 +25,7 @@
 - [ ] WebSockets
 - [ ] Other [ comment ]
 
-## What are your top pain points with using WebView?
+## 4. What are your top pain points with using WebView?
 
 - [ ] Missing web features
 - [ ] WebView bugs
@@ -30,7 +34,7 @@
 - [ ] Security
 - [ ] Other [ comment ]
 
-## What specific platforms do you develop on?
+## 5. What specific platforms do you develop on?
 
 - [ ] Android
 - [ ] iOS
@@ -39,7 +43,7 @@
 - [ ] Windows
 - [ ] Other
 
-## Which WebView implementation do you use?
+## 6. Which WebView implementation do you use?
 
 - [ ] Android WebView
 - [ ] Custom Tabs
@@ -50,49 +54,51 @@
 - [ ] X5 WebView (Tencent Browser Services WebView)
 - [ ] Other [ comment ]
 
-## Do you know how to file bugs and search for documentation about WebView?
+## 7. Do you know how to file bugs and search for documentation about WebView?
 
 - [ ] Yes
 - [ ] No
 - [ ] Unsure
 
-## Do you feel WebView documentation is adequate?
+## 8. Do you feel WebView documentation is adequate?
 
 - [ ] Yes
 - [ ] No
 - [ ] Unsure [ comment ]
 
-## How do you keep track of web platform features that are available in WebViews?
+## 9. How do you keep track of web platform features that are available in WebViews?
 
 - [ ] Blogs
 - [ ] Release notes
+- [ ] Announcements
+- [ ] Social Media
 - [ ] [ other ]
 
-## What programming language is utilized in your embedding solution?
+## 10 .What programming language is utilized in your embedding solution?
 
 [open text]
 
-## How are you achieving consistent behavior and rendering across different platforms and devices using WebView ?
+## 11. How are you achieving consistent behavior and rendering across different platforms and devices using WebView ?
 
 [open text]
 
-## What approaches do you take to test WebViews and ensure their behavior remains consistent across various devices and platforms?
+## 12. What approaches do you take to test WebViews and ensure their behavior remains consistent across various devices and platforms?
 
 [open text]
 
-## Are there features or functionality missing from Progressive Web Apps (PWAs) that if added would motivate you to maintaining a PWA instead of your WebView-based solution?
+## 13. Are there features or functionality missing from Progressive Web Apps (PWAs) that if added would motivate you to maintaining a PWA instead of your WebView-based solution?
 
 [open text]
 
-## How do you decide when to use a WebView vs navigating to a browser app?
+## 14. How do you decide when to use a WebView vs navigating to a browser app?
 
 [open text]
 
-## How do you work around some of the shortcomings of WebView today?
+## 15. How do you work around some of the shortcomings of WebView today?
 
 [open text]
 
-## What are your thoughts about WebView from a privacy and security point of view?
+## 16. What are your thoughts about WebView from a privacy and security point of view?
 
 [open text]
 
