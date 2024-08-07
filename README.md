@@ -41,6 +41,7 @@
 - [ ] macOS
 - [ ] Linux
 - [ ] Windows
+- [ ] HarmonyOS/OpenHarmony
 - [ ] Other
 
 ## 6. Which WebView implementation do you use?
@@ -52,6 +53,7 @@
 - [ ] WKWebView
 - [ ] WebView2
 - [ ] X5 WebView (Tencent Browser Services WebView)
+- [ ] HarmonyOS ArkWeb
 - [ ] Other [ comment ]
 
 ## 7. Do you know how to file bugs and search for documentation about WebView?
