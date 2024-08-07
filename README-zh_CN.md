@@ -1,5 +1,7 @@
 # webview小调查 #
 
+## Description 
+
 W3C WebView调查
 
 W3C WebView社区组（CG）希望识别、理解和减少由软件组件（通常称为WebViews）引起的问题，这些组件在Web浏览器之外呈现基于Web技术的内容，如本机应用程序和MiniApps。因此，W3C WebView CG [1]希望了解中国开发者社区对WebView的使用和未来标准化的看法和要求。我们邀请开发人员和Web爱好者参与这项简短的调查（只需几分钟）。您的意见将以匿名方式提交，并将汇编成一份报告，以推动2024年9月23日至27日在W3C TPAC（技术全会周）举行的GC会议期间的讨论。本次调查将持续到9月15日。  
@@ -9,11 +11,12 @@ W3C WebView社区组（CG）希望识别、理解和减少由软件组件（通�
 [2] https://www.w3.org/2024/09/TPAC/
 
 
+
 ## 1.您的大多数用户是否使用WebView或浏览器来运行您的Web应用程序？ (required)
 
 - [ ] WebViews
 - [ ] 浏览器 (Browsers)
-- [ ] 无（仅限本机）Native __-> new__
+- [ ] 无（仅限本机）Native
 
 ## 2. 您一般在什么情况下使用WebView？ 
 
@@ -108,37 +111,48 @@ W3C WebView社区组（CG）希望识别、理解和减少由软件组件（通�
 - [ ] 社交媒体
 - [ ] 其他 [#15]
 
-(#15 还有什么别的办法？)
+## 15. 还有什么别的办法？
+
+[open-ended text]
+
 
 ## 16. 在您的嵌入解决方案中使用什么编程语言？
 
-【开放式问题】
+[open-ended text]
+
 
 ## 17. 您如何使用WebView在不同的平台和设备上实现一致的行为和呈现？ 
 
-【开放式问题】
+[open-ended text]
+
 
 ## 18. 您采用什么方法来测试WebView并确保它在不同设备和平台上的行为保持一致性？
 
-【开放式问题】
+[open-ended text]
+
 
 ## 19. Progressive Web Apps(PWA)中是否缺少一些特性或功能，且如果添加特性或功能被添加上，您将会选择维护一个PWA而不是基于WebView的解决方案？
 
-【开放式问题】
+[open-ended text]
+
 
 ## 20. 您如何决定何时使用WebView而不是导航到浏览器应用程序？
 
-【开放式问题】
+[open-ended text]
+
 
 ## 21. 今天你是如何解决WebView的一些缺点的呢？
 
-【开放式问题】
+[open-ended text]
+
 
 ## 22. 从隐私和安全的角度，您对WebView有什么看法？
 
-【开放式问题】
+[open-ended text]
+
 
 ## 23. 您使用的WebView是否缺少功能特性？缺少哪些呢？（例如，预渲染、WebviewPool、...）
 
-【开放式问题】
+[open-ended text]
+
 
