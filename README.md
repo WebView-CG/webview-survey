@@ -1,11 +1,11 @@
 # webview-survey
 
-## 1. Is the majority of your users using WebViews or browsers to run your web application(s)?
+## 1. Do most of your users use WebViews or browsers to run your web application(s)?
 
 - [ ] WebViews
 - [ ] Browsers
 
-## 2.What do you use WebView for?
+## 2. What do you use WebView for?
 
 - [ ] Hybrid apps (Apache Cordova, Capacitor…)
 - [ ] Browser apps
@@ -41,6 +41,7 @@
 - [ ] macOS
 - [ ] Linux
 - [ ] Windows
+- [ ] HarmonyOS/OpenHarmony
 - [ ] Other
 
 ## 6. Which WebView implementation do you use?
@@ -52,6 +53,7 @@
 - [ ] WKWebView
 - [ ] WebView2
 - [ ] X5 WebView (Tencent Browser Services WebView)
+- [ ] HarmonyOS ArkWeb
 - [ ] Other [ comment ]
 
 ## 7. Do you know how to file bugs and search for documentation about WebView?
@@ -74,11 +76,11 @@
 - [ ] Social Media
 - [ ] [ other ]
 
-## 10 .What programming language is utilized in your embedding solution?
+## 10. What programming language is utilized in your embedding solution?
 
 [open text]
 
-## 11. How are you achieving consistent behavior and rendering across different platforms and devices using WebView ?
+## 11. How are you achieving consistent behavior and rendering across different platforms and devices using WebView?
 
 [open text]
 
@@ -86,11 +88,11 @@
 
 [open text]
 
-## 13. Are there features or functionality missing from Progressive Web Apps (PWAs) that if added would motivate you to maintaining a PWA instead of your WebView-based solution?
+## 13. Are there features or functionality missing from Progressive Web Apps (PWAs) that, if added, would motivate you to maintain a PWA instead of your WebView-based solution?
 
 [open text]
 
-## 14. How do you decide when to use a WebView vs navigating to a browser app?
+## 14. How do you decide when to use either a WebView or navigating to a browser app?
 
 [open text]
 
@@ -102,7 +104,7 @@
 
 [open text]
 
-## Are there features of functionality missing in the WebView you use? (e.g., prerender, WebviewPool,...)
+## 17. Are there features or functionality that need to be added to the WebView you use? (e.g., prerender, WebviewPool,...)
 
 [open text]
 
