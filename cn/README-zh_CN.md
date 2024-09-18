@@ -11,6 +11,11 @@ W3C WebView社区组（CG）希望识别、研究和减少由于使用软件组�
 [2] https://www.w3.org/2024/09/TPAC/
 
 
+## Results
+
+Results were compiled in [this spreadsheet](https://docs.google.com/spreadsheets/d/1rQJvdic9ZxqA7XINkNq5t1sIsexfZegfG5d_zu2UeLk/edit?usp=drive_link), and [this slide deck](./results_survey_cn/index.html).
+
+
 ## Questions
 
 ### 1.您的大多数用户是否使用WebView或浏览器来运行您的Web应用程序？ (required)
